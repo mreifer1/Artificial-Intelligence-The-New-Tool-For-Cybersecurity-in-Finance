@@ -3,7 +3,7 @@ Artificial Intelligence: The New Tool For Cybersecurity in Finance (Research Pro
 
 This paper was a group project for my Introduction to Cybersecurity class.
 
-Group Members:
+Other Members:
 * Calvin Basier
 * David Oliseh
 
